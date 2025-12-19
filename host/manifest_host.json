@@ -1,0 +1,7 @@
+{
+  "name": "com.bcc423.certificados",
+  "description": "Host para o TP2 de Criptografia",
+  "path": "C:\\Users\\david\\OneDrive\\Desktop\\TPCripto\\host\\CertHost.exe",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://jillgjcfkikcbahfgibjanlnhjljcmof/"]
+}
